@@ -1,0 +1,6 @@
+PageObject\SearchCustomer.class
+TestRunner\TestRun.class
+PageObject\LoginPage.class
+PageObject\AddNewCustomer.class
+StepDefinition\BaseClass.class
+StepDefinition\StepDefi.class
