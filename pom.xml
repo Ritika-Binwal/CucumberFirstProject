@@ -153,7 +153,7 @@
 					<configuration>
 						<testFailureIgnore>true</testFailureIgnore>
 						<includes>
-							<include>**/*Run.java</include>
+							<include>**/*TestRun.java</include>
 						</includes>
 					</configuration>
   		</plugin>

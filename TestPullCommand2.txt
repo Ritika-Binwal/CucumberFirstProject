@@ -1,1 +1,1 @@
-To test the pull command
+Modify file 2 and push to GitHub repository

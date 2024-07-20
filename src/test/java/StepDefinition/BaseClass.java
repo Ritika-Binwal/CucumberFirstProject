@@ -27,10 +27,5 @@ public class BaseClass
 		 
 	}
 	
-	public void clickjs(WebElement menu, WebDriver driver)
-	{
-		JavascriptExecutor js = (JavascriptExecutor)driver;
-		js.executeScript("arguments[0].click()",menu);
-	}
 }
  

@@ -3,4 +3,5 @@ TestRunner\TestRun.class
 PageObject\LoginPage.class
 PageObject\AddNewCustomer.class
 StepDefinition\BaseClass.class
+StepDefinition\CloseStep.class
 StepDefinition\StepDefi.class
